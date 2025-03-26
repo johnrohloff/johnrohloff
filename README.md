@@ -1,16 +1,36 @@
-## Hi there 👋
+### Welcome to my GitHub page!
+My name is John Rohloff, I am a recent computer science graduate at the University of Saskatchewan
 
-<!--
-**johnrohloff/johnrohloff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a passionate software developer with a strong focus on cloud computing, data analytics and backend development. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Recent Personal Projects:
+**[Canadian Air Travel Data Visualization Using AWS]** - Coming soon...
+<br></br>
+
+**[NHL Statistics Data Visualization](https://github.com/johnrohloff/Fantasy_Hockey_App)** - Small data visualization app showcasing NHL statistics from 2019-2024 using Python, Dash, PostgreSQL
+<br></br>
+
+
+## 🛠️ Skills & Tech 🛠️
+- **🖥️ Programming Languages 🖥️**
+  - C, Python, Java, HTML, CSS, JavaScript
+    
+- **☁️ Cloud Computing ☁️**
+  - Amazon Web Services (S3, Lambda, Quicksight, EC2, Athena, EventBridge, IAM, Glue)
+
+- **🎯 Other Skills 🎯**
+  - SQL/NoSQL
+  - Version Control (Git)
+  - MVC, Agile Scrum, ISO Model
+
+- **📜 Certifications 📜**
+  - AWS Certified Cloud Practitioner Certificate
+  - AWS Certified Solutions Architect - Associate
+
+
+## Contact Me
+- 📧 rohloffjohn@hotmail.com
+
+
+
