@@ -5,7 +5,7 @@ My name is John Rohloff, I am a recent computer science graduate at the Universi
 
 
 ## Recent Personal Projects:
-**[Canadian Air Travel Data Visualization Using AWS]** - Coming soon...
+**[Canadian Air Travel Data Visualization Using AWS](https://github.com/johnrohloff/airtravel-api-pipeline)** - An AWS pipeline to display daily air travel from popular Canadian airports using AWS Lambda, S3, EventBridge, IAM, Quicksight
 <br></br>
 
 **[NHL Statistics Data Visualization](https://github.com/johnrohloff/Fantasy_Hockey_App)** - Small data visualization app showcasing NHL statistics from 2019-2024 using Python, Dash, PostgreSQL
